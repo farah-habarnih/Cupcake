@@ -1,0 +1,32 @@
+
+span.welcome{
+    background-color:black;
+    color:white;
+    padding:10px;
+}
+
+nav>img{
+    width: 1.9em;
+    margin-left: 0.7em;
+    margin-right: 1em;
+
+}
+
+.navbar-brand{
+    background-color: pink;
+    font-weight: 700;
+}
+form input{
+    width: 100%;
+}
+form select{
+    width: 100%;
+}
+form label{
+    padding-top: 0.2rem;
+}
+.btn-primary{
+    width: 5em;
+}
+
+
